@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PatchInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <RenamedFiles />
+  <Files>
+    <PatchItem Path="GameLauncher.exe" BeforeFileSize="0" BeforeMd5Hash="" AfterFileSize="200394847" AfterMd5Hash="0ccacd3dc137e8de4effc02eaa6094c4" />
+  </Files>
+</PatchInfo>
