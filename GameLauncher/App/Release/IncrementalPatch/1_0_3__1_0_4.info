@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PatchInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <RenamedFiles />
+  <Files>
+    <PatchItem Path="SelfUpdater\SelfPatcher.exe" BeforeFileSize="0" BeforeMd5Hash="" AfterFileSize="91136" AfterMd5Hash="7ad79898a352021793a66f0553ab249a" />
+    <PatchItem Path="SelfUpdater\SelfPatcherCore.dll" BeforeFileSize="0" BeforeMd5Hash="" AfterFileSize="8704" AfterMd5Hash="a815fd6a1cba81f3a738a71e30b07f5e" />
+  </Files>
+</PatchInfo>

@@ -2,26 +2,22 @@
 <VersionInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <BaseDownloadURL>https://eberic1.github.io/App/Release/</BaseDownloadURL>
   <MaintenanceCheckURL />
-  <Version>1.0.2</Version>
+  <Version>1.0.4</Version>
   <Patches>
-    <IncrementalPatch Files="246" CompressionFormat="NONE" PatchSize="113336320" PatchMd5Hash="a66c5fc0ed1426d4876715f6f1d49b9d" InfoURL="" DownloadURL="">
-      <FromVersion>1.0.0</FromVersion>
-      <ToVersion>1.0.1</ToVersion>
-    </IncrementalPatch>
-    <IncrementalPatch Files="1" CompressionFormat="NONE" PatchSize="200396800" PatchMd5Hash="60202f21017e0c7432ec917b172c612c" InfoURL="" DownloadURL="">
-      <FromVersion>1.0.1</FromVersion>
-      <ToVersion>1.0.2</ToVersion>
+    <IncrementalPatch Files="2" CompressionFormat="NONE" PatchSize="102400" PatchMd5Hash="86309a2bbc3dde81b26c165dac945edd" InfoURL="" DownloadURL="">
+      <FromVersion>1.0.3</FromVersion>
+      <ToVersion>1.0.4</ToVersion>
     </IncrementalPatch>
   </Patches>
   <InstallerPatch CompressionFormat="LZMA" PatchSize="0" PatchMd5Hash="" DownloadURL="" />
   <IgnoredPaths>
     <string>*patcher_log.txt</string>
-    <string>SelfUpdater\</string>
     <string>*output_log.txt</string>
   </IgnoredPaths>
   <CompressionFormat>NONE</CompressionFormat>
   <Files>
-    <VersionItem Path="GameLauncher.exe" FileSize="200394847" Md5Hash="0ccacd3dc137e8de4effc02eaa6094c4" CompressedFileSize="200394847" CompressedMd5Hash="0ccacd3dc137e8de4effc02eaa6094c4" DownloadURL="" />
+    <VersionItem Path="SelfUpdater\SelfPatcher.exe" FileSize="91136" Md5Hash="7ad79898a352021793a66f0553ab249a" CompressedFileSize="0" CompressedMd5Hash="" DownloadURL="" />
+    <VersionItem Path="SelfUpdater\SelfPatcherCore.dll" FileSize="8704" Md5Hash="a815fd6a1cba81f3a738a71e30b07f5e" CompressedFileSize="0" CompressedMd5Hash="" DownloadURL="" />
   </Files>
   <Name>App</Name>
 </VersionInfo>
