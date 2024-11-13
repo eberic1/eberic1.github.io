@@ -1,0 +1,49 @@
+{
+  "ProjectName": "Rohan Prestige",
+  "Language": "en_US",
+  "Environment": "Release",
+  "Region": "Any",
+  "ServerStatus": "Online",
+  "WebpageURL": "https://prestige-rohan.com",
+  "PatchNotesURL": "",
+  "MyAccountURL": "",
+  "TermsOfServiceURL": "",
+  "PrivacyPolicyURL": "",
+  "ReportBugURL": "",
+  "Alerts": [
+    {
+      "type": "Information",
+      "date": "2024-11-12T20:29:30.4407243+01:00",
+      "showAfterDate": "2024-11-12T20:29:30.4407858+01:00",
+      "showAfterDateBool": false,
+      "title": "Server status",
+      "message": "Welcome to the Beta Version of the Prestige Launcher!",
+      "interactionURL": ""
+    }
+  ],
+  "News": [
+    {
+      "header": "LASTEST NEWS",
+      "title": "Patch Version 0.3",
+      "subtitle": "LIVE NOW",
+      "subtitleColor": "#FFFFFF",
+      "date": "2024-11-12T20:30:47.6868896+01:00",
+     "imagesURL": [
+                "https://i.ibb.co/2nvbqkj/3.png"
+            ],
+      "videoURL": "https://youtu.be/72X0OySMzj0",
+      "interactionURL": "",
+      "content": "Dekan Sage is Dragon evolve now\r\nBoosted Health drain\r\nBoosted Boosted Breath\r\nBoosted WFFS\r\nAdjusted bow Mastery\r\nCatacalysm Boosted to 160 % and duration is 60 sec now\r\nboosted Crossbow Mastery\r\nAdjusted Katar Masteries\r\nAdjusted Dual sword Mastery\r\nFury tempest accum Dmg bossted by 1%\r\nguardian physical blow boosted to 25 %\r\nWarlock staff mastery boosted and adjusted\r\nability drain of warlock is 500 stats now\r\nnoir Arrendal mastery boosted\r\nrear blast from 300% to 500 %",
+      "buttonContent": "More info...",
+      "showHeader": true,
+      "showTitle": true,
+      "showSubTitle": true,
+      "subtitleCustomColor": false,
+      "showContent": true,
+      "showDate": false,
+      "showButton": false,
+      "showVideo": false
+    }
+  ],
+  "SubNews": []
+}
